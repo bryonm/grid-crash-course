@@ -1,3 +1,5 @@
-# web-platform-f44odx
+# Grid Crash Course
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-f44odx)
+## this is the first repo I've synced up
+
+### the learning curve is real
